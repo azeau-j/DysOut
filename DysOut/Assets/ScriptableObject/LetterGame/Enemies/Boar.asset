@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb29691385d3414fa1f58e9cbf28339c, type: 3}
+  m_Name: Boar
+  m_EditorClassIdentifier: 
+  _name: Boar
+  _sprite: {fileID: 21300000, guid: b68976beb9ac2ff43aa40d7b60e2cdc2, type: 3}
+  _size: 200
+  _maxLife: 5
+  _damage: 1
